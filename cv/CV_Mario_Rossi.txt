@@ -1,0 +1,44 @@
+###CURRICULUM VITAE
+
+Nome e Cognome: Mario Rossi Data di nascita: 15/03/1985 Indirizzo: Via
+Roma 123, Milano, Italia Telefono: +39 345 678 9012 Email:
+mario.rossi@example.com LinkedIn: linkedin.com/in/mariorossi GitHub:
+github.com/mariorossi
+
+###PROFILO PROFESSIONALE Senior Software Developer con oltre 12 anni di
+esperienza nello sviluppo di applicazioni web, mobile e sistemi
+distribuiti. Specializzato in architetture cloud, microservizi e machine
+learning. Problem solver orientato ai risultati con forte attitudine al
+lavoro in team e alla leadership tecnica.
+
+###ESPERIENZA PROFESSIONALE - Senior Software Developer | Tech Solutions
+S.p.A. | 2018 – Presente • Progettazione e sviluppo di microservizi in
+Python e Node.js su architettura AWS. • Coordinamento di un team di 6
+sviluppatori. • Implementazione di pipeline CI/CD con Jenkins e GitHub
+Actions.
+
+-   Full Stack Developer | WebInnovations S.r.l. | 2013 – 2018 •
+    Sviluppo di applicazioni web in React, Angular e Django. • Gestione
+    database SQL e NoSQL (PostgreSQL, MongoDB). • Collaborazione con il
+    team UX/UI per ottimizzare l’esperienza utente.
+
+-   Software Engineer | SoftDev Ltd | 2010 – 2013 • Progettazione e
+    sviluppo di applicazioni Java Enterprise. • Integrazione con sistemi
+    legacy e API REST.
+
+###ISTRUZIONE - Laurea Magistrale in Informatica | Università degli Studi
+di Milano | 2008 – 2010 - Laurea Triennale in Ingegneria Informatica |
+Politecnico di Milano | 2005 – 2008
+
+###SKILLS TECNICHE - Linguaggi di Programmazione: Python, Java, JavaScript
+(Node.js, React, Angular), C++, Go - Cloud & DevOps: AWS, Azure, Docker,
+Kubernetes, Jenkins, GitHub Actions, Terraform - Database: PostgreSQL,
+MySQL, MongoDB, Redis, Cassandra - Machine Learning: TensorFlow,
+PyTorch, scikit-learn - Strumenti: Git, Jira, Confluence, Linux, Bash,
+REST API, GraphQL
+
+###LINGUE - Italiano: Madrelingua - Inglese: Avanzato (C1) - Spagnolo:
+Intermedio (B1)
+
+###CERTIFICAZIONI - AWS Certified Solutions Architect – Professional -
+Google Cloud Professional Developer - Scrum Master Certified (SMC)

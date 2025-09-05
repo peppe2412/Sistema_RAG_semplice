@@ -1,0 +1,49 @@
+###CURRICULUM VITAE
+
+Nome e Cognome: Laura Bianchi Data di nascita: 22/07/1987 Indirizzo: Via
+Dante Alighieri 45, Torino, Italia Telefono: +39 333 987 6543 Email:
+laura.bianchi@example.com LinkedIn: linkedin.com/in/laurabianchi GitHub:
+github.com/laurabianchi
+
+###PROFILO PROFESSIONALE Senior Cyber Security Specialist con oltre 10 anni
+di esperienza in sicurezza informatica, gestione delle vulnerabilità,
+analisi forense digitale e sicurezza delle infrastrutture cloud. Esperta
+nella definizione di strategie di difesa proattive e nella risposta agli
+incidenti di sicurezza. Forte attitudine alla formazione del personale e
+alla consulenza per aziende enterprise.
+
+###ESPERIENZA PROFESSIONALE - Senior Cyber Security Engineer | SecureTech
+S.p.A. | 2018 – Presente • Progettazione e implementazione di sistemi
+SIEM (Splunk, ELK). • Gestione e monitoraggio della sicurezza in
+ambienti cloud (AWS, Azure). • Coordinamento di attività di Incident
+Response e Digital Forensics.
+
+-   Cyber Security Analyst | InfoSec Italia | 2014 – 2018 • Analisi
+    delle vulnerabilità e penetration testing. • Redazione report di
+    sicurezza e piani di remediation. • Collaborazione con il SOC per
+    threat hunting e gestione alert.
+
+-   Security Consultant | NetDefense Ltd | 2011 – 2014 • Consulenza su
+    progetti di sicurezza per aziende internazionali. • Implementazione
+    di policy di sicurezza e compliance (ISO 27001, GDPR). • Supporto
+    tecnico durante audit interni ed esterni.
+
+###ISTRUZIONE - Laurea Magistrale in Sicurezza Informatica | Università di
+Torino | 2009 – 2011 - Laurea Triennale in Informatica | Università
+degli Studi di Torino | 2006 – 2009
+
+###SKILLS TECNICHE - Sicurezza Informatica: Penetration Testing,
+Vulnerability Assessment, Ethical Hacking - Incident Response &
+Forensics: SIEM (Splunk, ELK), Wireshark, Volatility, Autopsy -
+Networking & Security: Firewall, IDS/IPS, VPN, Proxy, TLS/SSL, PKI -
+Cloud Security: AWS, Azure, Google Cloud (IAM, Security Groups,
+Monitoring) - Compliance & Standards: ISO 27001, GDPR, NIST, CIS
+Controls - Strumenti: Kali Linux, Metasploit, Burp Suite, Nessus,
+OpenVAS, Snort
+
+###LINGUE - Italiano: Madrelingua - Inglese: Avanzato (C1) - Francese:
+Intermedio (B1)
+
+###CERTIFICAZIONI - Certified Information Systems Security Professional
+(CISSP) - Offensive Security Certified Professional (OSCP) - Certified
+Ethical Hacker (CEH)

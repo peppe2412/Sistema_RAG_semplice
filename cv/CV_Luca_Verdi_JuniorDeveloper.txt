@@ -1,0 +1,35 @@
+###CURRICULUM VITAE
+
+Nome e Cognome: Luca Verdi Data di nascita: 10/11/1998 Indirizzo: Via
+Garibaldi 78, Firenze, Italia Telefono: +39 320 456 7890 Email:
+luca.verdi@example.com LinkedIn: linkedin.com/in/lucaverdi GitHub:
+github.com/lucaverdi
+
+###PROFILO PROFESSIONALE Junior Software Developer motivato e appassionato
+di programmazione con 2 anni di esperienza nello sviluppo web e nella
+gestione di basi di dati. Orientato all’apprendimento continuo, con
+buona capacità di problem solving e predisposizione al lavoro di
+squadra.
+
+###ESPERIENZA PROFESSIONALE - Junior Software Developer | DevWorks S.r.l. |
+2022 – Presente • Sviluppo di applicazioni web con React e Node.js. •
+Collaborazione con il team per il design e la manutenzione di database
+SQL. • Supporto nell’implementazione di API REST e GraphQL.
+
+-   Stage Curriculare | WebSolutions | 2021 – 2022 • Supporto nello
+    sviluppo frontend con HTML, CSS e JavaScript. • Testing e debug di
+    applicazioni web. • Redazione documentazione tecnica di base.
+
+###ISTRUZIONE - Laurea Triennale in Informatica | Università degli Studi di
+Firenze | 2018 – 2021 - Diploma di Maturità Scientifica | Liceo
+Scientifico Galileo Galilei | 2013 – 2018
+
+###SKILLS TECNICHE - Linguaggi di Programmazione: Python, JavaScript, Java,
+C++ - Web Development: HTML, CSS, React, Node.js, Express - Database:
+MySQL, PostgreSQL, SQLite - Strumenti: Git, Linux, Docker (base), Visual
+Studio Code - Metodologie: Agile, Scrum
+
+###LINGUE - Italiano: Madrelingua - Inglese: Intermedio (B2)
+
+###CERTIFICAZIONI - JavaScript Algorithms and Data Structures
+(freeCodeCamp) - AWS Cloud Practitioner (in corso di completamento)

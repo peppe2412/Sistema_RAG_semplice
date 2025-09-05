@@ -1,0 +1,52 @@
+###CURRICULUM VITAE
+
+Nome e Cognome: Giulia Conti
+Data di nascita: 05/04/1992
+Indirizzo: Via Mazzini 56, Bologna, Italia
+Telefono: +39 347 654 3210
+Email: giulia.conti@example.com
+LinkedIn: linkedin.com/in/giuliaconti
+Portfolio: behance.net/giuliaconti
+
+###PROFILO PROFESSIONALE
+UX/UI Designer con oltre 7 anni di esperienza nella progettazione di interfacce digitali intuitive e user-friendly.
+Specializzata in design thinking, prototipazione e user research. Appassionata di accessibilità e di creazione di esperienze
+digitali inclusive, con forte collaborazione con team di sviluppo e product management.
+
+###ESPERIENZA PROFESSIONALE
+- Senior UX/UI Designer | CreativeLab S.p.A. | 2019 – Presente
+  • Progettazione di interfacce per applicazioni web e mobile in settori fintech ed e-commerce.
+  • Realizzazione di wireframe, prototipi interattivi e design system in Figma e Sketch.
+  • Conduzione di user research, usability test e interviste con utenti finali.
+  • Collaborazione con sviluppatori frontend per garantire coerenza visiva e funzionale.
+
+- UX Designer | DigitalVision S.r.l. | 2016 – 2019
+  • Creazione di mockup e prototipi per siti web responsive.
+  • Analisi delle esigenze utente tramite workshop e survey.
+  • Sviluppo di linee guida per la brand identity digitale.
+
+- Junior Web Designer | WebFactory | 2014 – 2016
+  • Supporto nella realizzazione di layout grafici per siti aziendali.
+  • Ottimizzazione dell’esperienza utente su siti responsive.
+  • Collaborazione con team di sviluppo per l’integrazione grafica.
+
+###ISTRUZIONE
+- Laurea Magistrale in Design della Comunicazione | Politecnico di Milano | 2012 – 2014
+- Laurea Triennale in Disegno Industriale | Università di Bologna | 2009 – 2012
+
+###SKILLS TECNICHE
+- Design Tools: Figma, Sketch, Adobe XD, Photoshop, Illustrator, InVision
+- UX Research: User Testing, Personas, Journey Mapping, A/B Testing
+- Frontend (base): HTML, CSS, JavaScript
+- Metodologie: Design Thinking, Agile, Lean UX
+- Accessibilità: WCAG, Inclusive Design
+
+###LINGUE
+- Italiano: Madrelingua
+- Inglese: Avanzato (C1)
+- Tedesco: Base (A2)
+
+###CERTIFICAZIONI
+- UX Design Professional Certificate (Google)
+- Interaction Design Specialization (Coursera)
+- Human-Computer Interaction (Stanford Online)
