@@ -1,4 +1,4 @@
-Un progetto Python che trasforma una cartella di CV in un database ricercabile semanticamente, usando RAG (Retrieval-Augmented Generation) e embeddings OpenAI. Perfetto per trovare rapidamente candidati con competenze specifiche.
+Un progetto Python che trasforma una cartella di CV in un database ricercabile semanticamente, usando RAG (Retrieval-Augmented Generation) e embeddings OpenAI. Perfetto per trovare rapidamente candidati con competenze specifiche, la logica si trova nel file main.py e nel file requirements.txt sono inserite le librerie che sono state usate.
 
 Funzionalità:
 -Lettura automatica di CV in .txt da una cartella dedicata.
